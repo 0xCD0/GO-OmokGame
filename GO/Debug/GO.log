@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\bit-user\documents\visual studio 2015\projects\go\go\main.cpp(249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\bit-user\documents\visual studio 2015\projects\go\go\main.cpp(397): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GO.vcxproj -> C:\Users\bit-user\Documents\Visual Studio 2015\Projects\GO\Debug\GO.exe
